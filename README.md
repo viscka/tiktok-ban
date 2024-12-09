@@ -8,7 +8,7 @@ This repository provides a service for banning TikTok accounts, videos, and musi
 --Accounts: Ban specific user accounts.
 --Videos: Remove access to individual videos.
 --Music: Disable access to specific music tracks.
----Service Plans:
+---Service Plans: 
 
 ---Normal Ban:
 
